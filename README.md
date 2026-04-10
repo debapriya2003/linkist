@@ -68,7 +68,7 @@ When you paste a URL, linkist automatically fetches the page title, description,
 
 ## 📱 Screenshots
 
-> _Screenshots coming soon. Run the app locally to see it in action._
+> _Screenshots given below.
 
 | Home  | Add Link | Backup & Restore |
 |:-----------:|:--------:|:----------------:|
